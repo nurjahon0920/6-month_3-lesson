@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat";
+}
+.container {
+  margin: 0 auto;
+  padding: 0 116px;
+  max-width: 1366px;
+  width: 100%;
+}
+a {
+  text-decoration: none;
+}
+li,
+ul,
+ol {
+  list-style: none;
+}
+button {
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+body {
+  margin: 0 auto;
+}
+@font-face {
+  font-family: "Montserrat";
+  src: url("./assets/fonts/Montserrat-Regular.ttf");
+}
