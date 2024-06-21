@@ -1,0 +1,14 @@
+footer {
+  background-color: #00f1f3;
+  .container {
+    .footer_top {
+      &_right {
+        float: right;
+        display: flex;
+        justify-content: space-between;
+        width: 121px;
+        align-items: end;
+      }
+    }
+  }
+}
